@@ -4,7 +4,7 @@ This game was created for the participation of the GameJam06 event in Ankara.
 
 It is a simple mobile puzzle game.
 
-Dependencies that are used:
-  Unity3D
-  Unity Asset Store
-  Blender
+Dependencies that are used:\n
+  Unity3D\n
+  Unity Asset Store\n
+  Blender\n
