@@ -1,6 +1,6 @@
 <h1>GameJam06 Ankara</h1>
 This game was created for the participation of the GameJam06 event in Ankara.
-It is a simple mobile puzzle game.
+It is a simple but fun mobile puzzle game.
 <h2><i>Dependencies and Websites used</i></h2>
 <ul>
 	<li><a href="https://unity3d.com/get-unity/download">Unity3D</a></li>
